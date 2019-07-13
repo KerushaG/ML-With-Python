@@ -10,3 +10,9 @@ This project worked with one feature from 10, of a diabetes dataset, and drew th
 ## K-Means Algorithm
 This is one of the algorithms used for unsupervised learning, where the data is organized around a number of medians, that relate to the number of clusters you want from the data. In this task I also learnt how to read from and work with csv files.
  
+## Tools I used
+To work with datasets, algorithms and plotting data:
+[SkLearn](https://scipy.org/)
+[Numpy](https://scipy.org/)
+[Matplotlib](https://scipy.org/) 
+[Pandas](https://scipy.org/)
